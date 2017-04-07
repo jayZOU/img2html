@@ -24,6 +24,7 @@ window.addEventListener('load', function() {
 ## API
 ### elm
 必填，img节点，原图
+
 **注：原图尽量不要太大，如果超过300px，那么步长应该设置大于2**
 
 ### renderElm
