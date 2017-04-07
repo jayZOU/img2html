@@ -2,10 +2,12 @@
 将图片转换为html节点(一个特别无聊的轮子......)
 
 ## 示例
+
 [HTML页面](http://jayzou.github.io/demo/img2html/)
-| 原图 | 转换后 |
-| :-------- | --------:|
-| ![enter image description here](http://jayzou.github.io/demo/img2html/test.jpg)    |   ![enter image description here](http://jayzou.github.io/demo/img2html/cover.jpg) |
+
+ 原图 | 转换后 
+ :--------: | :--------:
+ ![enter image description here](http://jayzou.github.io/demo/img2html/test.jpg)    |   ![enter image description here](http://jayzou.github.io/demo/img2html/cover.jpg) 
 
 ## 安装
 > npm install img2html --save
