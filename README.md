@@ -32,6 +32,7 @@ window.addEventListener('load', function() {
 
 ### step
 选填，步长，默认值：2
+
 能够有效减少渲染的像素集，如设置为2则渲染的像素集为原图像素集的1/4
 
 ### byte
