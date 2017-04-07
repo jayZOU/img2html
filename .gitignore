@@ -3,6 +3,10 @@ logs
 *.log
 npm-debug.log*
 
+# html
+*.html
+*.jpg
+
 # Runtime data
 pids
 *.pid
@@ -29,6 +33,7 @@ build/Release
 # Dependency directories
 node_modules
 jspm_packages
+dist
 
 # Optional npm cache directory
 .npm
